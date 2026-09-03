@@ -2,7 +2,7 @@
 
 🇪🇸 [Español](README_es.md) | 🇬🇧 **English**
 
-**IASI Core** is the foundational project of **IASI — Ingeniería Asistida por Sistemas Inteligentes**.
+**IASI Core** is the foundational project of **IASI — Ingeniería Aumentada por Sistemas Inteligentes**.
 
 It contains the canonical definitions, rules, configuration, templates and core mechanisms of IASI.
 
